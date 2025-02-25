@@ -20,20 +20,8 @@ This Java project demonstrates various operations on a linked list. It implement
 4. **Merging Two Sorted Lists:**
    - Sort two lists independently and merge them into a single sorted list.
 
-## Example Output 
+## My Output 
 
-Initial Sorted List:
-2 -> 3 -> 5 -> 7 -> 11 -> null
-After deleting first:
-3 -> 5 -> 7 -> 11 -> null
-After deleting last:
-3 -> 5 -> 7 -> null
-After deleting at index 1:
-3 -> 7 -> null
-Front List:
-3 -> null
-Back List:
-7 -> null
-Merged Sorted List:
-1 -> 2 -> 4 -> 5 -> 6 -> 7 -> null
+<img width="613" alt="Screenshot 2025-02-25 at 3 00 04 AM" src="https://github.com/user-attachments/assets/cff45ea5-e647-4758-8321-eb8fe038b1e7" />
+
 
